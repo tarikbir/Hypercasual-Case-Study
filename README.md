@@ -1,6 +1,6 @@
 # Hypercasual Game Prototype
 
-This project represents a hypercasual game prototype developed as a case study for a mobile game studio. Despite my initial hesitation towards these assignments, I viewed this opportunity as a chance to delve into a new genre and demonstrate my programming skills.
+This project represents a hypercasual game prototype developed within a limited timeframe of approximately 48 hours (spread over several days) as a case study for a mobile game studio. Despite my initial hesitation towards these assignments, I viewed this opportunity as a chance to delve into a new genre and demonstrate my programming skills.
 
 ## Background
 
@@ -19,6 +19,10 @@ Throughout development, the emphasis was on implementing clean and efficient cod
 - **Dependency Injection (Inversion of Control)**: The project utilizes Zenject for dependency injection, showcasing architectural patterns for modular and scalable code.
 - **Reactive Event Handling**: ReactiveX for C# is utilized for some of the event handling, showcasing reactive programming principles to manage game events.
 - **Lazy Loading**: Initial scene is loaded lazily to reduce initial loading time.
+
+## Development Timeframe
+
+The project was initially allocated a timeframe of 72 hours for completion. However, due to my concurrent commitments with a day job, I was able to dedicate approximately 48 hours to the development of this prototype. This constraint underscores my ability to efficiently deliver a functional game within limited time, balancing professional responsibilities with project demands.
 
 ## Disclaimer
 
